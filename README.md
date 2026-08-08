@@ -1,18 +1,8 @@
 # code-review-lab
 
-feature/anu-edit
-# I am Anushka practicing git and doing assignment
+feature/riyapillai-ui-edit
 
-Changes Made accordingly
+##### This is Riya.
 
-
-
-Contributor
-
-
-
-* Navya Chaudhary (@navyaachy)
-feature/twishashukla26-edit
-* \- Twisha Shukla, she add name here for assignment purpose.
-** Shivam Kore (@shivam-core)
+Hello
 
