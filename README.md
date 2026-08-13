@@ -13,3 +13,5 @@ This project demonstrates a collaborative Git and GitHub workflow. The workflow 
 pushing branches to GitHub, and using pull requests for code review and collaboration.
 
 This is OST Project.
+
+This is Riya and Aadya.
